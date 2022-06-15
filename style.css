@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Titillium Web", sans-serif;
+}
+
+#hero {
+  background-image: url("img/snowboard-2.jpg");
+  background-size: cover;
+  padding-top: 80px;
+  min-height: 700px;
+  color: #fcfcfc;
+}
+#hero p {
+  color: #ffffff;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.7176470588);
+}
+
+/*# sourceMappingURL=style.css.map */
